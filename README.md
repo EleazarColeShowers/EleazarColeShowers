@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eleazar ColeShowers
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Projects using Jetpack Compose and Retrofit
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently building apps in Kotlin and Flutter
+- 💞️ I’m looking to collaborate on Projects using Jetpack Compose and Flutter
 - 📫 How to reach me ; eleato2020@gmail.com
 - ⚡ Fun fact: I write fiction novels
 
